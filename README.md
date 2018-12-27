@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/cogolabs/abcdefgh.svg?branch=master)](https://travis-ci.org/cogolabs/abcdefgh)
 [![codecov](https://codecov.io/gh/cogolabs/abcdefgh/branch/master/graph/badge.svg)](https://codecov.io/gh/cogolabs/abcdefgh)
-[![Docker Build Status](https://img.shields.io/docker/build/cogolabs/abcdefgh.svg)](https://hub.docker.com/r/cogolabs/abcdefgh/)
 [![Go Report Card](https://goreportcard.com/badge/github.com/cogolabs/abcdefgh)](https://goreportcard.com/report/github.com/cogolabs/abcdefgh)
+[![Docker Build](https://images.microbadger.com/badges/image/cogolabs/abcdefgh.svg)](https://hub.docker.com/r/cogolabs/abcdefgh/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # abcdefgh
@@ -13,7 +13,7 @@ Another BeyondCorp proxy to enable access to systems and services beyond your pe
 - Authenticate via GitHub OAuth2 Tokens
 - Verify user identity with Duo two-factor authentication
 
-Implicit HTTP Proxy available at https://github.com/cogolabs/transcend
+Implicit HTTP Access Proxy available at https://github.com/cogolabs/transcend
 
 ## Install
 ```
